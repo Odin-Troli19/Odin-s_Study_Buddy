@@ -20,10 +20,3 @@ window.onload = function() {
     }
 };
 
-// Optional: Confirm before deleting study sessions (future feature)
-/*
-function confirmDelete() {
-    return confirm('Are you sure you want to delete this study session?');
-}
-*/
-
