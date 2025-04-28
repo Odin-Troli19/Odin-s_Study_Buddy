@@ -17,3 +17,12 @@ nav a {
 form {
     margin-bottom: 20px;
 }
+
+.dark-mode {
+    background-color: #222;
+    color: #f0f0f0;
+}
+
+.dark-mode nav a {
+    color: #f0f0f0;
+}
